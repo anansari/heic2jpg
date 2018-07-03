@@ -1,0 +1,20 @@
+{
+  "name": "imageconvertor",
+  "version": "1.0.0",
+  "description": "This is the drill\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Djust the drill. I remind this is just the drill.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node index.js"
+  },
+  "author": "anansari",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "rimraf": "^2.6.2"
+  },
+  "dependencies": {
+    "gm": "^1.23.1"
+  }
+}
